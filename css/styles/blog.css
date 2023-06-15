@@ -1,0 +1,39 @@
+.header{
+    height: 200px;
+    background-image: url('../styles/peaky.jpg.jpg');
+    background-size: content;
+    background-repeat: no-repeat;
+    background-position: cover;
+    color: white;
+    background-color: pink;
+    background-blend-mode: multiply;
+}
+.blog{
+    background-color: peru;
+    box-shadow: 10px 10px 10px;
+    margin-bottom: 100px;
+}
+h3{
+    color: magenta;
+    text-decoration: overline wavy green; 
+}
+p{
+    color: blue;
+}
+.page-title{
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+span{
+    border: 1px solid purple;
+    height: 200px;
+    width: 100px;
+    margin-top: 50px;
+    display: inline-block;
+    display: none;
+}
